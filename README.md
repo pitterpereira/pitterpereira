@@ -2,7 +2,7 @@
 <h3 align="center">Técnico de Tecnologia da Informação</h3>
 
 * 🌍  Atualmente moro em Diamantina - MG, Brasil
-* 🧠  Sou técnico de tecnologia da informação na empresa <a href:"http://www.ufvjm.edu.br/">UFVJM<a/>
+* 🧠  Sou técnico de tecnologia da informação na empresa (<a href:"http://www.ufvjm.edu.br/">UFVJM<a/>)
 * 💻 As principais tecnologias que domino são: C++, JavaScript, Python, HTML e CSS;
 * 🌱 No momento, estou aprendendo: **Node.js**
 * ✉️  Você pode entrar em contato comigo pelo email: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
