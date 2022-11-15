@@ -2,11 +2,11 @@
 <h3 align="center">Técnico de Tecnologia da Informação</h3>
 
 * 🌍  Atualmente moro em Diamantina - MG, Brasil
-* 🧠  Sou técnico de tecnologia da informação na empresa (<a href:"http://www.ufvjm.edu.br/">UFVJM<a/>)
+* 🧠  Sou técnico de tecnologia da informação na empresa <a href="http://www.ufvjm.edu.br/">UFVJM<a/>)
 * 💻 As principais tecnologias que domino são: C++, JavaScript, Python, HTML e CSS;
 * 🌱 No momento, estou aprendendo: **Node.js**
 * ✉️  Você pode entrar em contato comigo pelo email: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
-* 🔗 e pelo Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="10" width="20" /></a>
+* 🔗 e pelo Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="15" width="25" /></a>
 </p>
 * ⚡ Fato divertido: Também sou dançarino de forró 🕺💃
 
