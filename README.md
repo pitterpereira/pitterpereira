@@ -5,18 +5,18 @@
 
 * 🧠 Atualmente sou técnico de tecnologia da informação na <a href="http://www.ufvjm.edu.br/">UFVJM - Campus JK<a/>
 * 🌍 Moro em Diamantina - MG, Brasil
-* 💻 As principais tecnologias que domino são: JavaScript, Python, HTML e CSS
+* 💻 As principais tecnologias que domino são: **JavaScript**, **Python**, **HTML** e **CSS**
 * 🌱 No momento, estou aprendendo: **Node.js**
 * ✉️ Você pode entrar em contato comigo pelo e-mail: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 * 🔗 Para mais informações, veja meu Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="15" width="25" /></a>
 
-* ⚡ Curiosidade: Também sou dançarino de forró 🕺💃 no <a href="https://www.instagram.com/grupoxoteardiamantina/">Grupo Xotear - Diamantina</a>
+* ⚡ **Curiosidade:** Também sou dançarino de forró 🕺💃 no <a href="https://www.instagram.com/grupoxoteardiamantina/">Grupo Xotear - Diamantina</a>
   
 <br>
   
 <div align="center" style="display: inline_block">
 <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
