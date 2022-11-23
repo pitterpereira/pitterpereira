@@ -2,7 +2,6 @@
 <h3 align="center">👨‍💻 Iniciando na carreira de desenvolvimento de software! 👨‍💻</h3>
 
 <br>
-
 * 🧠 Atualmente sou técnico de tecnologia da informação na <a href="http://www.ufvjm.edu.br/">UFVJM - Campus JK<a/>
 * 🌍 Moro em Diamantina - MG, Brasil
 * 💻 As principais tecnologias que domino são: JavaScript, Python, HTML e CSS
@@ -11,7 +10,6 @@
 * 🔗 Para mais informações, veja meu Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="15" width="25" /></a>
 
 <br>
-  
 * ⚡ Curiosidade: Também sou dançarino de forró 🕺💃 no <a href="https://www.instagram.com/grupoxoteardiamantina/">Grupo Xotear - Diamantina</a>
   
 <div align="center" style="display: inline_block">
@@ -35,7 +33,6 @@
 </div>
   
 <br><br>
-  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitterpereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
