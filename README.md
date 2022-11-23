@@ -1,6 +1,7 @@
 <h1 align="center">Opa 👋, eu me chamo Pitter Pereira</h1>
 <h3 align="center">👨‍💻 Iniciando na carreira de desenvolvimento de software! 👨‍💻</h3>
 
+<br>
 
 * 🧠 Atualmente sou técnico de tecnologia da informação na <a href="http://www.ufvjm.edu.br/">UFVJM - Campus JK<a/>
 * 🌍 Moro em Diamantina - MG, Brasil
@@ -9,8 +10,9 @@
 * ✉️ Você pode entrar em contato comigo pelo e-mail: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 * 🔗 Para mais informações, veja meu Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="15" width="25" /></a>
 
-
 * ⚡ Curiosidade: Também sou dançarino de forró 🕺💃 no <a href="https://www.instagram.com/grupoxoteardiamantina/">Grupo Xotear - Diamantina</a>
+  
+<br>
   
 <div align="center" style="display: inline_block">
 <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
