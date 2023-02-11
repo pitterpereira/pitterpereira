@@ -10,7 +10,7 @@
 * 🌱 No momento, estou aprendendo: **Node.js**
 * ✉️ Você pode entrar em contato comigo pelo e-mail: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 * 🔗 Para mais informações, veja meu Linkedin:<a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="11" width="45" /></a>
-* ⚡ **Curiosidade:** Também sou dançarino de forró 🕺💃 no <a href="https://www.instagram.com/grupoxoteardiamantina/">Grupo Xotear - Diamantina</a>
+* ⚡ **Curiosidade:** Também sou dançarino de forró 🕺💃
 
 <br>
   
