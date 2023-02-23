@@ -4,7 +4,7 @@
 
 <br>
 
-* 🌍 Atualmente, moro em Diamantina - MG, Brasil
+* 🌍 Atualmente, moro em **Diamantina** - MG, Brasil
 * 💼 Trabalho como **Técnico de Tecnologia da Informação** na empresa <a href="http://www.ufvjm.edu.br/">UFVJM - Campus JK<a/>
 * 💻 As principais tecnologias que domino são: **JavaScript**, [mais em breve!]
 * 🧠 No momento, estou me aprimorando em: **Javascript**
