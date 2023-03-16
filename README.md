@@ -4,13 +4,13 @@
 
 <br>
 
-* 🌍 Atualmente, moro em **Diamantina - MG**, Brasil 🇧🇷
-* 💼 Trabalho como **Técnico de Tecnologia da Informação** na [UFVJM](https://portal.ufvjm.edu.br/)
+* 🌍 Resido atualmente em **Diamantina - MG**, Brasil 🇧🇷
+* 💼 Desempenho a função de **Técnico de Tecnologia da Informação** na [UFVJM](https://portal.ufvjm.edu.br/)
 * 💻 Sou estudante de **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) - **Turma 32B**
-* 🧠 No momento, **estou populando meu portfólio** com projetos de cursos que estou realizando.
+* 🧠 Atualmente, **estou expandindo meu portfólio** com projetos realizados em cursos e projetos pessoais
 * ✉️ Você pode entrar em contato comigo pelo **e-mail**: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 * 🔗 Para mais informações, visite meu **Linkedin**: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="10" width="43" /></a>
-* ⚡ **Curiosidade:** Também sou **dançarino de forró** 🕺💃
+* ⚡ **Curiosidade:** Além de ser um **desenvolvedor em formação**, também sou **dançarino de forró** 🕺💃
 
 <br>
   
