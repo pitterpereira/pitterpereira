@@ -1,5 +1,5 @@
 
-<h1 align="center">Opa!! 👋 eu me chamo Pitter Pereira da Costa</h1>
+<h1 align="center">Opa 👋 !! Eu me chamo Pitter Pereira da Costa</h1>
 <h3 align="center"><code>👨‍💻 Construindo uma carreira en desenvolvimento de software! 👨‍💻</code></h3>
 
 <br>
