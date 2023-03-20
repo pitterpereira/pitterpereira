@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=header"/>
 
 <h1 align="center">Opa 👋 !! Eu me chamo Pitter Pereira da Costa</h1>
 <h3 align="center"><code>👨‍💻 Construindo uma carreira en desenvolvimento de software! 👨‍💻</code></h3>
