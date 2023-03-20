@@ -47,3 +47,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pitterpereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitterpereira&layout=compact&langs_count=15&theme=dark"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=footer"/>
