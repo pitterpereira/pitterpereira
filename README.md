@@ -5,7 +5,7 @@
 
 <br>
 
-* 🌍 Resido atualmente em **Diamantina - MG**, Brasil 🇧🇷
+* 🌍 Resido atualmente em **Diamantina - MG, Brasil** 🇧🇷
 * 💼 Desempenho a função de **Técnico de Tecnologia da Informação** na [UFVJM](https://portal.ufvjm.edu.br/)
 * 💻 Sou estudante de **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) - **Turma 32B**
 * 🧠 Atualmente, **estou expandindo meu portfólio** com projetos realizados em cursos e projetos pessoais
