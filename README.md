@@ -11,7 +11,7 @@
 * 🧠 Atualmente, **estou expandindo meu portfólio** com projetos realizados em cursos e projetos pessoais
 * ✉️ Você pode entrar em contato comigo pelo **e-mail**: [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 * 🔗 Para mais informações, visite meu **Linkedin**: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitterpereira" height="10" width="43" /></a>
-* ⚡ **Curiosidade:** Além de ser um **desenvolvedor em formação**, também sou **dançarino de forró** 🕺💃
+* ⚡ **Curiosidades:** Adoro **jogos de tabuleiro**, tenho um cachorro chamado Alfredo e sou **dançarino de forró** 🕺💃
 
 <br>
   
