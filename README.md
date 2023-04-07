@@ -11,6 +11,10 @@ Currently, I'm learning tools for front-end development, but I'm more interested
 
 I dedicate a good part of my free time to deepening my knowledge and expanding my portfolio.
 
+You can contact me via email at → [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
+
+For more information, please visit my Linkedin → <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
+
 <br>
 
 # Opa! 👋
@@ -26,6 +30,7 @@ Atualmente estou aprendendo ferramentas para desenvolvimento front-end, mas me i
 Dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio.
 
 Você pode entrar em contato comigo pelo e-mail &rarr; [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
+
 Para mais informações, visite meu Linkedin &rarr; <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
 <br>
