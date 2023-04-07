@@ -37,7 +37,7 @@ Para mais informações, visite meu Linkedin &rarr; <a href="https://linkedin.co
 
 ---
 
-## 🔧 Tecnologias e Ferramentas / Technologies and Tools
+## 🔧 Technologies and Tools / Tecnologias e Ferramentas
 
 ##
 
