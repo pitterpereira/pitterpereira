@@ -28,9 +28,14 @@ Dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir
 Você pode entrar em contato comigo pelo e-mail &rarr; [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
 Para mais informações, visite meu Linkedin &rarr; <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
+<br>
+
 ---
 
+<br>
+
 ## 🔧 Tecnologias e Ferramentas / Technologies and Tools
+
 ##
 
 <div align="center" style="display: inline_block">
