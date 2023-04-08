@@ -1,37 +1,37 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=header"/>
 
 # Hello there! 👋
-My name is <code>Pitter Pereira</code>. I'm an Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - UFVJM, located in Diamantina - MG - Brazil.
+My name is <code>Pitter Pereira</code>. I'm an Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), located in Diamantina - MG - Brazil.
 
-I'm currently taking the Web Development course at Trybe, with an expected completion date in March 2024.
+I'm currently taking the Web Development course at [Trybe](https://www.betrybe.com/), with an expected completion date in March 2024.
 
 In addition to my job and studies, I dedicate a good portion of my free time to deepen my knowledge and expand my portfolio.
 
 Currently, I'm focused on improving my skills in front-end development tools, but I'm also interested in areas such as back-end and project management.
 
-If you want to get in touch with me, feel free to send an email to pitterpereira@gmail.com.
-
 To learn more about my professional background and skills, check out my profile on Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
-=]
+If you want to get in touch with me, feel free to send me a direct message on LinkedIn or an email to pitterpereira@gmail.com.
+
+Thanks for stopping by =]
 
 <br>
 
 # Opa! 👋
 
-Meu nome é <code>**Pitter Pereira**</code>. Sou Técnico de Tecnologia da Informação do serviço público federal e atuo na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
+Meu nome é <code>**Pitter Pereira**</code>. Sou Técnico de Tecnologia da Informação do serviço público federal na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
 
-Estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
+No momento estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
 
 Além do meu trabalho e estudos, dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio. 
 
 Atualmente estou focado em aprimorar minhas habilidades em ferramentas para desenvolvimento front-end, mas também tenho interesse em áreas como back-end e gestão de projetos. 
 
-Caso você queira entrar em contato comigo, fique à vontade para enviar um e-mail para [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com). 
-
 Para saber mais sobre minha trajetória profissional e habilidades, confira meu perfil no Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
-=]
+Caso você queira entrar em contato comigo, fique à vontade para enviar direct no Linkedin ou um e-mail para [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com). 
+
+Valeu pela visita =]
 
 <br>
 
