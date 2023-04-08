@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=header"/>
 
 # Hello there! 👋
-My name is <code>Pitter Pereira </code> and I work as an Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - UFVJM, located in Diamantina - MG - Brazil.
+My name is <code>Pitter Pereira</code>. I'm an Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - UFVJM, located in Diamantina - MG - Brazil.
 
 I'm currently taking the Web Development course at Trybe, with an expected completion date in March 2024.
 
@@ -19,9 +19,7 @@ To learn more about my professional background and skills, check out my profile 
 
 # Opa! 👋
 
-Meu nome é <code>**Pitter Pereira** </code>
-
-Sou Técnico de Tecnologia da Informação do serviço público federal e atuo na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
+Meu nome é <code>**Pitter Pereira**</code>. Sou Técnico de Tecnologia da Informação do serviço público federal e atuo na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
 
 Estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
 
