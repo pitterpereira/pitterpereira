@@ -11,7 +11,7 @@ Currently, I'm focused on improving my skills in front-end development tools, bu
 
 To learn more about my professional background and skills, check out my profile on Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
-If you want to get in touch with me, feel free to send me a direct message on LinkedIn or an email to pitterpereira@gmail.com.
+If you want to get in touch with me, feel free to send me a direct message on LinkedIn above or an email to pitterpereira@gmail.com.
 
 Thanks for stopping by =]
 
@@ -29,7 +29,7 @@ Atualmente estou focado em aprimorar minhas habilidades em ferramentas para dese
 
 Para saber mais sobre minha trajetória profissional e habilidades, confira meu perfil no Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
-Caso você queira entrar em contato comigo, fique à vontade para enviar direct no Linkedin ou um e-mail para [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com). 
+Caso você queira entrar em contato comigo, fique à vontade para enviar uma mensagem direta no Linkedin acima ou um e-mail para [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com). 
 
 Valeu pela visita =]
 
