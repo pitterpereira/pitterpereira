@@ -1,37 +1,39 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=header"/>
 
-# Hello! 👋
-My name is <code>**Pitter Pereira da Costa** </code>
+# Hello there! 👋
+My name is <code>Pitter Pereira </code> and I work as an Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - UFVJM, located in Diamantina - MG - Brazil.
 
-I live in Diamantina - MG - Brazil and work as an Information Technology Technician for the federal public service at the Federal University of the Jequitinhonha and Mucuri Valleys - [UFVJM](https://portal.ufvjm.edu.br/). 
+I'm currently taking the Web Development course at Trybe, with an expected completion date in March 2024.
 
-I'm a student of Web Development at [Trybe](https://www.betrybe.com/) with an expected completion date of March 2024.
+In addition to my job and studies, I dedicate a good portion of my free time to deepen my knowledge and expand my portfolio.
 
-Currently, I'm learning tools for front-end development, but I'm more interested in the back-end area and project management.
+Currently, I'm focused on improving my skills in front-end development tools, but I'm also interested in areas such as back-end and project management.
 
-I dedicate a good part of my free time to deepening my knowledge and expanding my portfolio.
+If you want to get in touch with me, feel free to send an email to pitterpereira@gmail.com.
 
-You can contact me via email at → [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
+To learn more about my professional background and skills, check out my profile on Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
-For more information, please visit my Linkedin → <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
+=]
 
 <br>
 
 # Opa! 👋
 
-Meu nome é <code>**Pitter Pereira da Costa** </code>
+Meu nome é <code>**Pitter Pereira** </code>
 
-Resido em Diamantina - MG - Brasil, sou Técnico de Tecnologia da Informação do serviço público federal e atuo na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/). 
+Sou Técnico de Tecnologia da Informação do serviço público federal e atuo na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
 
-Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024.
- 
-Atualmente estou aprendendo ferramentas para desenvolvimento front-end, mas me interesso mais pelas áreas de back-end e gestão de projetos. 
+Estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
 
-Dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio.
+Além do meu trabalho e estudos, dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio. 
 
-Você pode entrar em contato comigo pelo e-mail &rarr; [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com)
+Atualmente estou focado em aprimorar minhas habilidades em ferramentas para desenvolvimento front-end, mas também tenho interesse em áreas como back-end e gestão de projetos. 
 
-Para mais informações, visite meu Linkedin &rarr; <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
+Caso você queira entrar em contato comigo, fique à vontade para enviar um e-mail para [pitterpereira@gmail.com](mailto:pitterpereira@gmail.com). 
+
+Para saber mais sobre minha trajetória profissional e habilidades, confira meu perfil no Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
+
+=]
 
 <br>
 
@@ -58,7 +60,7 @@ Para mais informações, visite meu Linkedin &rarr; <a href="https://linkedin.co
   &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>]
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"  width="40" height="40">
   &nbsp;
