@@ -39,7 +39,7 @@ Valeu pela visita =]
 
 ## 🔧 Technologies and Tools / Tecnologias e Ferramentas
 
-##
+<br>
 
 <div align="center" style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
