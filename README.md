@@ -35,8 +35,6 @@ Valeu pela visita =]
 
 <br>
 
----
-
 ## 🔧 Technologies and Tools / Tecnologias e Ferramentas
 
 <br>
