@@ -7,6 +7,8 @@ I'm currently taking the Web Development course at [Trybe](https://www.betrybe.c
 
 In addition to my job and studies, I dedicate a good portion of my free time to deepen my knowledge and expand my portfolio.
 
+Among some of my works, in 2014 I created a telephone services application for Android devices, which was downloaded by more than 2000 people.
+
 Currently, I'm focused on improving my skills in front-end development tools, but I'm also interested in areas such as back-end and project management.
 
 To learn more about my professional background and skills, check out my profile on Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
@@ -24,6 +26,8 @@ Meu nome é <code>**Pitter Pereira**</code>, Técnico de Tecnologia da Informaç
 No momento estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
 
 Além do meu trabalho e estudos, dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio. 
+
+Entre alguns de meus trabalhos, em 2014 criei um aplicativo de serviços telefônicos, para aparelhos Android, que foi baixado por mais de 2000 pessoas. 
 
 Atualmente estou focado em aprimorar minhas habilidades em ferramentas para desenvolvimento front-end, mas também tenho interesse em áreas como back-end e gestão de projetos. 
 
