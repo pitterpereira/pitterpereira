@@ -3,8 +3,6 @@
 # Hello there! 👋
 My name is <code>Pitter Pereira</code>, Information Technology Technician for the federal public service at the Federal University of Vale do Jequitinhonha and Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), located in Diamantina - MG - Brazil.
 
-I'm currently taking the Web Development course at [Trybe](https://www.betrybe.com/), with an expected completion date in March 2024.
-
 In addition to my job and studies, I dedicate a good portion of my free time to deepen my knowledge and expand my portfolio.
 
 Among some of my works, in 2014 I created a telephone services application for Android devices, which was downloaded by more than 2000 people.
@@ -22,8 +20,6 @@ Thanks for stopping by =]
 # Opa! 👋
 
 Meu nome é <code>**Pitter Pereira**</code>, Técnico de Tecnologia da Informação do serviço público federal na Universidade Federal dos Vales do Jequitinhonha e Mucuri - [UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
-
-No momento estou realizando o curso de Desenvolvimento Web da empresa [Trybe](https://www.betrybe.com/), com previsão de finalização em março de 2024. 
 
 Além do meu trabalho e estudos, dedico boa parte do meu tempo livre a aprofundar meus conhecimentos e a expandir meu portfólio. 
 
